@@ -1,6 +1,6 @@
 {
   "name": "list-peer-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lists the peerDependencies defined in ./package.json separated by a space",
   "bin": "list-peer-deps.js",
   "scripts": {
